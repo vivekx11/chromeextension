@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Testing
+.nyc_output/
+coverage/
+
+# Build output
+dist/
+build/
+out/
+
+# Chrome Extension
+chrome-profile/
+Extensions/
+
+# OS
+Thumbs.db
+.Spotlight-V100
+.Trashes
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Misc
+*.log
+logs/
+temp/
+.tmp/
