@@ -1,0 +1,9 @@
+# Chrome Extension Dependencies
+
+# No external dependencies required for this Chrome extension
+# This extension uses vanilla JavaScript and built-in Chrome APIs
+
+# For development and testing:
+# pytest>=7.0
+# black>=22.0
+# flake8>=4.0
