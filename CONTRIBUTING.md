@@ -1,4 +1,4 @@
-# Contributing to Chrome Extension
+# Contributing to Chrome Extension.......
 
 Thank you for your interest in contributing to this Chrome extension! We welcome all contributions, including bug reports, feature suggestions, and code contributions.
 
