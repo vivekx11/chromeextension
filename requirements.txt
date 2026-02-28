@@ -1,4 +1,4 @@
-# Chrome Extension Dependencies
+# Chrome Extension Dependencies.
 
 # No external dependencies required for this Chrome extension
 # This extension uses vanilla JavaScript and built-in Chrome APIs
