@@ -3,7 +3,7 @@ node_modules/
 package-lock.json
 yarn.lock
 
-# IDE and Editor
+# IDE and Editor...
 .vscode/
 .idea/
 *.swp
